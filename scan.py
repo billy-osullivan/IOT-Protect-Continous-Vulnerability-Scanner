@@ -1,6 +1,6 @@
 #!C:\Python27\python.exe
 # Script:   		scan.py
-# Author:   		William O Sullivam
+# Author:   		William O Sullivan
 # Purpose:  		This script checks devices on your network to see if they are vulnerable to Mirai and QBOT
 # Created:  		20 March 2017
 # Edited: 			12 June 2017
